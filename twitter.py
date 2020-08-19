@@ -48,9 +48,7 @@ print('''
                         |--------------------------------|
 	''')
 
-base_url = 'https://twitter.com/users'
-email_sub_url = '/email_available?email='
-username_sub_url = '/username_available?username='
+
 
 def main():
     while True:
